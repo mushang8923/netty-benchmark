@@ -1,0 +1,31 @@
+# maven ignore
+target/
+*.jar
+*.war
+*.tar
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+#私有文件
+*203.properties
+*203.xml
+
+# system ignore
+.DS_Store
+Thumbs.db
